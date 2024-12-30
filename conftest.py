@@ -21,6 +21,8 @@ def setup():
 #git add .             -----------> first time when we try to add, we need to give username and user mail
 #git commit -m message
 #git push origin main        ----------->origin main denotes that we are pushing codes to main branch
+#i
+#wq
 
 
 
